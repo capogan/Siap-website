@@ -540,8 +540,8 @@ index-1
 .hero-tab-block .nav-tabs { border-bottom: transparent; }
 .hero-tab-block .btn-default { color: #fff; }
 .hero-tab-block .btn-default:hover { color: #fff; }
-.hero-tab-block .st-tabs .tab-content { border: transparent; }
-.hero-tab-block .tab-content { border: transparent; }
+.hero-tab-block .st-tabs { border: transparent; }
+.hero-tab-block { border: transparent; }
 
 /* Nice Select 
 -------------------------------------------------------------- */
@@ -1041,7 +1041,7 @@ Product Single Sidebar
 .product-tabs .nav>li>a { background: #fff; border-bottom: 1px solid #dee7f2; border-right: 1px solid #dee7f2; border-left: 1px solid #dee7f2; border-top: 1px solid #dee7f2; color: #7e93ae; }
 .product-tabs .nav>li>a:hover { background: #eff3f8; border-bottom: 1px solid #dee7f2; border-right: 1px solid transparent; border-left: 1px solid #dee7f2; border-top: 1px solid #dee7f2; color: #f51f8a; }
 .product-tabs .nav>li>a i { padding-right: 10px; }
-.tab-content { background: #eff3f8; padding: 40px; border: 1px solid #dee7f2; position: relative; z-index: 8; margin-left: -1px; margin-top: -1px; }
+.tab-content { background: #fff; padding: 40px;  position: relative; z-index: 8; margin-left: -1px; margin-top: -1px; }
 .fee-table { }
 
 /*--------------------------------
